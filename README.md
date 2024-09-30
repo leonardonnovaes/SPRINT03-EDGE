@@ -15,3 +15,12 @@ Este projeto utiliza um ESP32 e um sensor DHT22 para monitorar as condições cl
 - Em seguida abra o projeto Wokwi(link no final) e mude o endereço ip para o endereço publico de sua vm
 - após tudo configurado abra a colection no postman, primeiro teste o halth check para verificar a conexão com a vm, logo em seguida no "Provising Sensor" para a criação dos sensores, depois listar os dispositivos e então ver os dados capturados no sth-commet
 ## Nossa arquitetura IOT
+![Meu Projeto](./arquitetura-iot.jpeg)
+## Links importantes
+- Wokwi: [wokwi](https://wokwi.com/projects/410403677713263617)
+- GitHub passo a passo para instalação do fiware: [git](https://github.com/fabiocabrini/fiware)
+## Participantes
+- Gustavo Morais RM554972
+- Leonardo Novaes RM554807
+- Miguel Carmo RM557622
+- Estevam Melo RM555124
