@@ -19,6 +19,7 @@ Este projeto utiliza um ESP32 e um sensor DHT22 para monitorar as condições cl
 ## Links importantes
 - Wokwi: [wokwi](https://wokwi.com/projects/410403677713263617)
 - GitHub passo a passo para instalação do fiware: [git](https://github.com/fabiocabrini/fiware)
+- Video explicativo: [youtube](https://youtu.be/croMWW0s89w)
 ## Participantes
 - Gustavo Morais RM554972
 - Leonardo Novaes RM554807
